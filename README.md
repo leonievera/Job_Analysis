@@ -8,7 +8,7 @@ Notebook with detailed steps: [02_skill_demand.ipynb](02_skill_demand.ipynb)
 
 ### Results
 
-![Visualization of Top Skills for Data Roles](images/skill_demand.png)
+![Visualization of Top Skills for Data Roles](images/skill_demand.png) <br/>
 *Bar graph visualizing the likelihood of skills requested in job postings in CH in 2023*
 
 ### Insights
@@ -22,7 +22,7 @@ Notebook with detailed steps: [02_skill_demand.ipynb](02_skill_demand.ipynb)
 Notebook with detailed steps: [03_skill_trend](03_skills_trend.ipynb)
 
 ### Results
-![Trending Top Skills for Data Analysts in CH](images/skill_trend_DA.png)
+![Trending Top Skills for Data Analysts in CH](images/skill_trend_DA.png) <br/>
 *Line graph visualizing the trending top skills for data analysts in CH in 2023.*
 
 ### Insights
@@ -35,7 +35,7 @@ Notebook with detailed steps: [03_skill_trend](03_skills_trend.ipynb)
 Notebook with detailed steps: [04_salary_analysis](04_salary_analysis.ipynb)
 
 ### Results
-![Salary Distribution of Data Jobs in CH](images/salary_title_analysis.png)
+![Salary Distribution of Data Jobs in CH](images/salary_title_analysis.png) <br/>
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 ### Insights
