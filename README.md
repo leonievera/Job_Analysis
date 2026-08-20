@@ -19,6 +19,8 @@ Notebook with detailed steps: [02_skill_demand.ipynb](02_skill_demand.ipynb)
 
 ## 2. How are in-demand skills trending for Data Analysts?
 
+Notebook with detailed steps: [03_skill_trend](03_skills_trend.ipynb)
+
 ### Results
 ![Trending Top Skills for Data Analysts in CH](images/skill_trend_DA.png)
 *Line graph visualizing the trending top skills for data analysts in CH in 2023.*
@@ -29,6 +31,8 @@ Notebook with detailed steps: [02_skill_demand.ipynb](02_skill_demand.ipynb)
 - Tableau and R show relatively stable demand throughout the year with some fluctuations. They remain important skills for data analysts.
 
 ## 3. How well do jobs and skills pay for Data Analysts?
+
+Notebook with detailed steps: [04_salary_analysis](04_salary_analysis.ipynb)
 
 ### Results
 ![Salary Distribution of Data Jobs in CH](images/salary_title_analysis.png)
