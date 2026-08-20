@@ -8,7 +8,7 @@ Notebook with detailed steps: [02_skill_demand.ipynb](02_skill_demand.ipynb)
 
 ### Results
 
-![Visualization of Top Skills for Data Roles](.venv/images/skill_demand.png)
+![Visualization of Top Skills for Data Roles](images/skill_demand.png)
 *Bar graph visualizing the likelihood of skills requested in job postings in CH in 2023*
 
 ### Insights
@@ -20,7 +20,7 @@ Notebook with detailed steps: [02_skill_demand.ipynb](02_skill_demand.ipynb)
 ## 2. How are in-demand skills trending for Data Analysts?
 
 ### Results
-![Trending Top Skills for Data Analysts in CH](.venv/images/skill_trend_DA.png)
+![Trending Top Skills for Data Analysts in CH](images/skill_trend_DA.png)
 *Line graph visualizing the trending top skills for data analysts in CH in 2023.*
 
 ### Insights
