@@ -27,3 +27,17 @@ Notebook with detailed steps: [02_skill_demand.ipynb](02_skill_demand.ipynb)
 - SQL is the most demanded skill throughout the year next to Python, although they both show a decrease in demand.
 - Excel experienced an increase in demand at the end of the year and surpassing Tableau.
 - Tableau and R show relatively stable demand throughout the year with some fluctuations. They remain important skills for data analysts.
+
+## 3. How well do jobs and skills pay for Data Analysts?
+
+### Results
+![Salary Distribution of Data Jobs in CH](images/salary_title_analysis.png)
+*Box plot visualizing the salary distributions for the top 6 data job titles.*
+
+### Insights
+- The salaries variate significantly across the different job titles. Data Scientist has is a top-paying role even though it is the widest spread.
+- Most of Data Analysts earn less than the other roles.
+- Counterintuitive is that the box of Senior Data Scientists is lower and narrower than the box of the regular Data Scientists. The Senior role has also an outlier at $170K but that is close to the top-quartile of non-senior Data Scientists. This could reflect a too small sample size, inconsistent  title inflation or data quality issues.
+- The outlier of the role Software Engineer at $205K is the highest individual salary across the roles even though the median is mid-to-low. This likely represents a senior-level or specialized engineer.
+- Only the roles Senior Data Scientists and Software Engineers have outliers, where as the other roles are more consistent.
+- In general roles with Engineer or Scientist have a higher pay than roles with Analyst.
