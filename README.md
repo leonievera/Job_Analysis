@@ -34,14 +34,27 @@ Notebook with detailed steps: [03_skill_trend](03_skills_trend.ipynb)
 
 Notebook with detailed steps: [04_salary_analysis](04_salary_analysis.ipynb)
 
-### Results
+### Highest paid roles
+
+#### Results
 ![Salary Distribution of Data Jobs in CH](images/salary_title_analysis.png) <br/>
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
-### Insights
+#### Insights
 - The salaries variate significantly across the different job titles. Data Scientist has is a top-paying role even though it is the widest spread.
 - Most of Data Analysts earn less than the other roles.
 - Counterintuitive is that the box of Senior Data Scientists is lower and narrower than the box of the regular Data Scientists. The Senior role has also an outlier at $170K but that is close to the top-quartile of non-senior Data Scientists. This could reflect a too small sample size, inconsistent  title inflation or data quality issues.
 - The outlier of the role Software Engineer at $205K is the highest individual salary across the roles even though the median is mid-to-low. This likely represents a senior-level or specialized engineer.
 - Only the roles Senior Data Scientists and Software Engineers have outliers, where as the other roles are more consistent.
 - In general roles with Engineer or Scientist have a higher pay than roles with Analyst.
+
+### Highest paid & most demanded skills for Data Analysts
+
+#### Results
+![The hihgest paid and most in-demand skills for Data Analysts in CH](images/salary_skill_analysis.png) <br/>
+*Two bar graphs visualizing the highest paid skills and most in-demand skills for Data Analysts in CH.*
+
+#### Insights
+- Power BI, Python and GCP are both the highest paid and most in-demand skills. These three skills stand out and then with a gap the other skills follow in a flat tail.
+- SQL appears in the top 10 highest paid skills but not in the top 10 most in-demand skills, which is counterintuitive, since SQL is often used.
+- It is unusual that so many infrastructure skills are listed among the most in-demand skills for Data Analysts.
